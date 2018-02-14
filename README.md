@@ -1,10 +1,10 @@
 # About
 
-This is just a repo that shows the basics of a Serverless project. Note that it is recommended that we regenerate the project using the Nodejs templates in order to add other things like unit testing.
+This is just a repo that shows the basics of a Serverless project. Note that it is recommended that we re-generate the project using the Nodejs templates in order to add other things like unit testing.
 
 To be clear, this doc does not go into details about Serverless as tons already exist.
 
-Additionally, you should be able to deploy these functions onto your cloud account by following the documenation.
+Additionally, you should be able to deploy these functions onto your cloud account by following the documentation.
 
 Note that when these functions are deployed the API Gateway is also created and deployed.
 
