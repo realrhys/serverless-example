@@ -25,17 +25,25 @@ Once you deploy the severless application you will see a folder called '.serverl
 
 One of the nice things about Serverless is that you can run it locally. You can do this using the following:
 
-## Create An Asset
+**Create An Asset**
+```
 serverless invoke local --function createAsset --path data/create.json
+```
 
-## Get An Asset
+**Get An Asset**
+```
 serverless invoke local --function getAsset --path data/get.json
+```
 
-## Update An Asset
+**Update An Asset**
+```
 serverless invoke local --function updateAsset --path data/update.json
+```
 
-## Delete An Asset
+**Delete An Asset**
+```
 serverless invoke local --function deleteAsset --path data/delete.json
+```
 
 # Conclusion
 
