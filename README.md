@@ -12,6 +12,8 @@ Finally, I have not added the calls to BigChainDB, however, you just need to go 
 
 Finally, finally, you will be able to run this code in a pipeline like Jenkins for CI/CD and reporting.
 
+Finally, finally, finally, you will be able to use IAM and Cognito should you so choose for access control.
+
 # Set Up
 
 Install [Serverless](https://github.com/serverless/serverless)
